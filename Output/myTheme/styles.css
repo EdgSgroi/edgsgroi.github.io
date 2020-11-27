@@ -231,6 +231,7 @@ footer {
 
 mark {
     background-color: #6D748F;
+    color: #ffffff;
 }
 @media (prefers-color-scheme: dark) {
     body {
