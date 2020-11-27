@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>EDGAR SGROI</title><description>Welcome to my personal website!</description><link>https://your-website-url.com</link><language>en</language><lastBuildDate>Thu, 26 Nov 2020 15:07:36 -0300</lastBuildDate><pubDate>Thu, 26 Nov 2020 15:07:36 -0300</pubDate><ttl>250</ttl><atom:link href="https://your-website-url.com/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://your-website-url.com/myprojects/projeta</guid><title>Projeta</title><description>Projeta is an application for those looking to advertise or join academic projects throughout Brazil.</description><link>https://your-website-url.com/myprojects/projeta</link><pubDate>Thu, 26 Nov 2020 13:54:51 -0300</pubDate><content:encoded><![CDATA[<h1>Projeta</h1><div class="icon-description">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>EDGAR SGROI</title><description>Welcome to my personal website!</description><link>https://your-website-url.com</link><language>en</language><lastBuildDate>Fri, 27 Nov 2020 11:53:05 -0300</lastBuildDate><pubDate>Fri, 27 Nov 2020 11:53:05 -0300</pubDate><ttl>250</ttl><atom:link href="https://your-website-url.com/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://your-website-url.com/myprojects/projeta</guid><title>Projeta</title><description>Projeta is an application for those looking to advertise or join academic projects throughout Brazil.</description><link>https://your-website-url.com/myprojects/projeta</link><pubDate>Fri, 27 Nov 2020 10:27:08 -0300</pubDate><content:encoded><![CDATA[<h1>Projeta</h1><div class="icon-description">
     <div>
         <img class="icon" src="https://your-website-url.com/images/projeta/logos/ProjetaIcon.png" alt="Projeta Icon"/>
     </div>
     <div style="margin-left: 20px;">
         Projeta is an application for those looking to advertise or join academic projects throughout Brazil. With it you can create or ask to participate in projects that are of interest to you, as there are five types of categories supported. It is possible to easily view those projects in which you participate and manage your own projects, updating the requests for participation and the stage in which they are.
         <br/><br/>
-        <h4> GitHub: <a href="https://github.com/csfar/blink/tree/master">https://github.com/csfar/blink/tree/master</a> </h4>
+        <h4> GitHub: <a href="https://github.com/paulaleite/remoteMiniChallenge3">https://github.com/paulaleite/remoteMiniChallenge3</a> </h4>
         <h4> AppStore: <a href="https://apps.apple.com/us/app/projeta/id1518661950">https://apps.apple.com/us/app/projeta/id1518661950</a> </h4>
     </div>
 </div><br/><br/><h3>About</h3><br/><div>
 Projeta is a projects platafom that studants and teachers can publicize their projects in reason to find people interested to participate. I developed the iOS back-end and server back-end. it is a app that works only in the Brazil and is in constant develpment.
-</div>]]></content:encoded></item><item><guid isPermaLink="true">https://your-website-url.com/myprojects/blink</guid><title>Blink! - Brainstorming</title><description>A SwiftUI app made for brainstorming using an Apple TV and multiple iPhones.</description><link>https://your-website-url.com/myprojects/blink</link><pubDate>Thu, 26 Nov 2020 13:40:40 -0300</pubDate><content:encoded><![CDATA[<h1>Blink! - Brainstorming</h1><div class="icon-description">
+</div>]]></content:encoded></item><item><guid isPermaLink="true">https://your-website-url.com/myprojects/blink</guid><title>Blink! - Brainstorming</title><description>A SwiftUI app made for brainstorming using an Apple TV and multiple iPhones.</description><link>https://your-website-url.com/myprojects/blink</link><pubDate>Fri, 27 Nov 2020 10:25:30 -0300</pubDate><content:encoded><![CDATA[<h1>Blink! - Brainstorming</h1><div class="icon-description">
     <div>
         <img class="icon" src="https://your-website-url.com/images/blink/logos/BlinkiOSIcon.png" alt="Blink Icon"/>
     </div>
@@ -19,12 +19,12 @@ Projeta is a projects platafom that studants and teachers can publicize their pr
         <br/>
         Blink! on iOS is a companion app for the Apple TV app of the same name. It can't be used alone.
         <br/><br/>
-        <h4> GitHub: <a href="https://github.com/csfar/blink/tree/master">https://github.com/csfar/blink/tree/master</a> </h4>
+        <h4> GitHub: <a href="https://github.com/csfar/blink">https://github.com/csfar/blink</a> </h4>
         <h4> AppStore: <a href="https://apps.apple.com/br/app/blink-brainstorming/id1524089387">https://apps.apple.com/br/app/blink-brainstorming/id1524089387</a> </h4>
     </div>
 </div><br/><br/><h3>About</h3><br/><div>
 Blink! is a tvOS app with a iOS companion, both developed using SwiftUI. In addition to the design, I developed all the communication between iOS and tvOS, using Multipeer Connectivity. With Blink! is possible to realize group brainstorming sessions on a AppleTV using iPhones to interaction.
-</div>]]></content:encoded></item><item><guid isPermaLink="true">https://your-website-url.com/myprojects/formworks</guid><title>Formworks</title><description>Formworks is a framework for building forms from JSON files.</description><link>https://your-website-url.com/myprojects/formworks</link><pubDate>Thu, 26 Nov 2020 13:30:37 -0300</pubDate><content:encoded><![CDATA[<h1>Formworks</h1><div class="icon-description">
+</div>]]></content:encoded></item><item><guid isPermaLink="true">https://your-website-url.com/myprojects/formworks</guid><title>Formworks</title><description>Formworks is a framework for building forms from JSON files.</description><link>https://your-website-url.com/myprojects/formworks</link><pubDate>Thu, 26 Nov 2020 18:33:53 -0300</pubDate><content:encoded><![CDATA[<h1>Formworks</h1><div class="icon-description">
     <div>
         <img class="icon" src="https://your-website-url.com/images/formworks/logos/FormworksShortLogo.png" alt="Formworks Logo"/>
     </div>
@@ -33,7 +33,7 @@ Blink! is a tvOS app with a iOS companion, both developed using SwiftUI. In addi
         <br/><br/>
         <h4> GitHub: <a href="https://github.com/MyFormworks/Formworks">https://github.com/MyFormworks/Formworks</a> </h4>
     </div>
-</div><br/><br/><h3>About</h3><br/><p>Formworks is a Open-Source framework with the MIT License develped to facilitate the creation of forms on iOS aplications. Using Server Driven UI, Formworks works using JSONs that describe all components and characteristics of the form. It is possible to set custom styles and create your validations to components using Regex. Formworks aims simplicity to build usable forms .</p><p>I develped many parts of the framework, such as some parts of the UI, Components Validators, documentation, I also integrated the CI and Jazzy Action.<br><div>
+</div><br/><br/><h3>About</h3><br/><p>Formworks is a Open-Source framework licensed under the MIT license develped to facilitate the creation of forms on iOS aplications. Inspired by Server-driven UI, Formworks works using JSONs that describe all the components and characteristics of the form and set validation rules for each component using Regex. Formworks aims to be the simplest way to build usable forms.</p><p>I develped many parts of the framework, such as some parts of the UI, Components Validators, documentation, I also integrated the CI and Jazzy Action.<br><div>
 
 </div></p>]]></content:encoded></item><item><guid isPermaLink="true">https://your-website-url.com/myprojects/goals</guid><title>Goals</title><description>Create objectives, set goals and track your progress with Goals app.</description><link>https://your-website-url.com/myprojects/goals</link><pubDate>Thu, 26 Nov 2020 13:12:40 -0300</pubDate><content:encoded><![CDATA[<h1>Goals</h1><div class="icon-description">
     <div>

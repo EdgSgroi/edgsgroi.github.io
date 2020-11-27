@@ -28,7 +28,6 @@ private struct MyThemeHTMLFactory: HTMLFactory {
             .head(for: index, on: context.site),
             .body(
                 .header(for: context, selectedSection: nil),
-//                .socialMediaList(for: context),
                 .wrapper(
                     .h1(.text(index.title)),
                     .p(
@@ -60,6 +59,18 @@ private struct MyThemeHTMLFactory: HTMLFactory {
                     .wrapper(
                         .h1(.text(section.title)),
                         .itemProjectList(for: section.items, on: context.site)
+                    ),
+                    .footer(for: context.site)
+                )
+            )
+        } else if section.id == .about {
+            return HTML(
+                .lang(context.site.language),
+                .head(for: section, on: context.site),
+                .body(
+                    .header(for: context, selectedSection: section.id),
+                    .wrapper(
+                        .p(.contentBody(section.content.body))
                     ),
                     .footer(for: context.site)
                 )

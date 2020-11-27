@@ -229,9 +229,13 @@ footer {
     color: #8a8a8a;
 }
 
+mark {
+    background-color: #6D748F;
+}
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #181818;
+        text-color: #ffffff;
     }
 
     body,

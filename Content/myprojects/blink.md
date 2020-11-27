@@ -16,7 +16,7 @@ tags: App, iOS, tvOS, Project, SwiftUI
         <br/>
         Blink! on iOS is a companion app for the Apple TV app of the same name. It can't be used alone.
         <br/><br/>
-        <h4> GitHub: <a href="https://github.com/csfar/blink/tree/master">https://github.com/csfar/blink/tree/master</a> </h4>
+        <h4> GitHub: <a href="https://github.com/csfar/blink">https://github.com/csfar/blink</a> </h4>
         <h4> AppStore: <a href="https://apps.apple.com/br/app/blink-brainstorming/id1524089387">https://apps.apple.com/br/app/blink-brainstorming/id1524089387</a> </h4>
     </div>
 </div>
