@@ -1,0 +1,261 @@
+
+/**
+*  Publish Foundation theme
+*  Copyright (c) John Sundell 2019
+*  MIT license, see LICENSE file for details
+*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #F0F0F0;
+    color: #363A44;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.wrapper {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    text-align: left;
+}
+
+header .perfil-img {
+    max-width: 300px;
+}
+
+header {
+    background-color: #6D748F;
+}
+
+header .wrapper {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header .site-name {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    color: #F0F0F0;
+    font-weight: bold;
+}
+
+.social-media {
+    max-width: 40px;
+}
+
+.social-media:hover {
+    opacity: 0.3;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav li {
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    margin: 0 10px;
+    line-height: 1.5em;
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #B9BFD4;
+}
+
+nav li a:hover {
+    color: #E5E5E5;
+}
+
+nav li a.selected {
+    color: #ffffff;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 2em;
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+a {
+    color: inherit;
+}
+
+.description {
+    margin-bottom: 40px;
+}
+
+.item-list > li {
+    display: grid;
+    padding: 20px;
+    border-radius: 20px;
+/*    background-color: #D9D9D9;*/
+    margin-bottom: 20px;
+}
+.item-list > li > article .flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.item-list > li > article .flex div {
+    margin: 10px;
+}
+
+.project-img {
+    max-width: 100px;
+    border-radius: 20%;
+    margin-top: 15px;
+}
+
+.item-list > li:last-child {
+    margin-bottom: 0;
+}
+
+.item-list h1 {
+    margin-bottom: 15px;
+    font-size: 1.3em;
+    font-weight: 700;
+}
+
+.item-list a {
+    text-decoration: none;
+}
+.item-list a:hover {
+    color: #6D748F;
+}
+
+.item-list p {
+    margin-bottom: 0;
+}
+
+.tag-list {
+    margin-top: 15px;
+}
+
+.tag-list li,
+.tag {
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    padding: 4px 6px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+.tag-list .App-tag {
+    background-color: #3D9CCC;
+}
+
+.tag-list .Project-tag {
+    background-color: #FB943C;
+}
+
+.tag-list .iOS-tag {
+    background-color: #7B8E9E;
+}
+
+.tag-list .tvOS-tag {
+    background-color: #347C6F;
+}
+
+.tag-list .Framework-tag {
+    background-color: #EB6562;
+}
+
+.tag-list .SwiftUI-tag {
+    background-color: #EA7298;
+}
+
+.tag-list a,
+.tag a {
+    text-decoration: none;
+}
+
+.tag-list li a {
+    text-decoration: none;
+}
+
+.item-page .tag-list {
+    display: inline-block;
+}
+
+.content {
+    margin-bottom: 40px;
+}
+
+.icon-description {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.icon {
+    border-radius: 23%;
+    max-width: 250px;
+}
+
+.browse-all {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.all-tags li {
+    font-size: 1.4em;
+    margin-right: 10px;
+    padding: 6px 10px;
+}
+
+footer {
+    color: #8a8a8a;
+}
+
+mark {
+    background-color: #6D748F;
+    color: #ffffff;
+}
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #181818;
+        text-color: #ffffff;
+    }
+
+    body,
+    header .site-name {
+        color: #F0F0F0;
+    }
+
+    .item-list > li {
+/*        background-color: #303030;*/
+    }
+
+    header {
+/*        background-color: #FD5C5C;*/
+/*        background-color: #691932;*/
+    }
+}
+
+@media(max-width: 600px) {
+    .wrapper {
+        padding: 40px 20px;
+    }
+}
